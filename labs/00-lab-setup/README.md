@@ -43,3 +43,6 @@ Build the foundational virtual lab environment used by all subsequent labs in th
 All three VMs share an **Internal Network** adapter (intnet) for isolated lab communication. Each VM also has a **NAT** adapter for internet access during setup. After initial configuration, the NAT adapter can be disabled to simulate an air-gapped environment.
 
 ## Build Steps
+### Phase 1 — Install VirtualBox
+- 1. **Download VirtualBox.** Visit https://www.virtualbox.org/wiki/Downloads and download the installer for your host operating system (Windows, macOS, or Linux).
+  2. **Install VirtualBox.** Run the installer
